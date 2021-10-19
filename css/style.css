@@ -1,0 +1,371 @@
+p{ display: inline-block;
+	color:white; 
+font-size: 22px;
+text-align: center;
+background-color: ;
+vertical-align: middle;}
+.number2{
+    color:white
+    margin-top: 50px;
+}
+
+h6 { font-size: 16px;
+	padding-top: 50px;
+	color: blue;
+}
+.text-color {color: blue;
+	font-size: 32px;}
+
+.date{color: blue;
+font-size: 32px;
+border-color: lightblue;
+}
+
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+    height:200px;
+    border-radius: 30%;
+
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+}
+
+
+.news{
+	display: inline-block;
+	margin-right: 50px;
+}
+.h2 {
+	text-align: center;
+}
+.text-article{
+	vertical-align: middle;
+}
+.container {
+	width: 1170px;
+	height: 460px;
+	background-color:grey;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.container2{
+    width: 500px;
+    height: 400px;
+    background-color:lightblue;
+    float: left;
+    border-radius: 55px;
+
+    
+    
+}
+.container3{
+    width: 500px;
+    height: 400px;
+    background-color: lightblue;
+    margin-right: auto;
+    margin-left: 50px;
+    display: inline-block;
+    float: right;
+    margin-top: ;
+}
+.container5{
+    width: 500px;
+    height: 400px;
+    background-color: lightblue;
+    margin-right: auto;
+    margin-left: 50px;
+    display: inline-block;
+    
+
+}
+.left-block{
+	width: 570px;
+	background-color: lightskyblue;
+	display: inline-block;
+}
+.right-block{
+	width: 570px;
+	background-color: lightskyblue;
+	display: inline-block;
+}
+.block2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-left: 16px;
+}
+.textarea {
+    width: 720px;
+    height: 288px;
+    resize: none;
+}
+
+.textarea1:focus {
+    outline: none;
+}
+
+.subject {
+    max-width: 352px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 16px;
+}
+
+.surname {
+    max-width: 352px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 16px;
+}
+
+.email {
+    max-width: 352px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+.button {
+   max-width: 352px;
+   width: 100%;
+   height: 60px;
+   background-color: #5863F8;
+   font-family: 'Poppins', sans-serif;
+   font-size: 14px;
+   color: white;
+}
+/* Footer */
+
+.footer {
+    background-color: #121212;
+    width: 100%;
+}
+
+.footer1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.smallfooter1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+
+.hotel {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color:white;
+    margin-bottom: 20px;
+    padding-top: 90px;
+}
+
+.bigtext {
+    max-width: 310px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-right: 10px;
+}
+
+.smallfooter2 {
+    padding-top: 90px;
+}
+
+.useful {
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: red;
+}
+
+.p {
+    margin-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #5863F8;
+}
+
+.smallfooter3 {
+    padding-top: 90px;
+}
+
+.smallfooter4 {
+    padding-top: 90px;
+    margin-right: 90px;
+}
+
+.info {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.class {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.p1 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.lastone {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-top: 54px;
+}
+
+.a1 {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: #5863F8;
+    margin-right: 90px;
+}
+
+.p8 {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: #B1B1B1;
+    margin-bottom: 40px;
+    margin-left: 85px;
+}
+
+.spann {
+    color: #5863F8;
+}
+
+.maintext{
+
+    margin-left: 920px;
+}
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
